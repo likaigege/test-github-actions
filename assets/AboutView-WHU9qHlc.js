@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as s}from"./index-SGbhOVZ0.js";const c={},_={class:"about"},a=s("h1",null,"恺爸爸啦，5555哈哈哈",-1),n=[a];function r(d,i){return o(),t("div",_,n)}const f=e(c,[["render",r]]);export{f as default};
