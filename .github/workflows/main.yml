@@ -19,6 +19,9 @@ jobs:
         run: |
           npm install
           npm run build
+      # 验证git安装  
+      - name: Verify Git installation
+        run: git --version
 
       - name: Deploy   # 部署
         uses: JamesIves/github-pages-deploy-action@v4.3.3
